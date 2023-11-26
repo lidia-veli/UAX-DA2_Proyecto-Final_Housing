@@ -1,6 +1,6 @@
 # UAX-DA2 Proyecto Final: Housing Price
 
-Alumna: Lidia Velicia Ruiz
+Alumna: Lidia Velicia Ruiz  
 Link repositorio: https://github.com/lidia-veli/UAX-DA2_Proyecto-Final_Housing
 
 ## Dataset
